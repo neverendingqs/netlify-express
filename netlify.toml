@@ -2,6 +2,11 @@
   command = "npm install && npm run build"
   functions = "functions"
 [[redirects]]
+  from = '/'
+  to = '/.netlify/functions/server/'
+  force = true
+  status = 200
+[[redirects]]
   from = '/index.html'
   to = '/.netlify/functions/server/'
   force = true
