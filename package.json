@@ -23,10 +23,10 @@
   "homepage": "https://github.com/neverendingqs/netlify-express#readme",
   "dependencies": {},
   "devDependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "netlify-lambda": "^0.4.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "netlify-lambda": "^1.6.3",
     "nodemon": "^1.19.2",
-    "serverless-http": "^1.6.0"
+    "serverless-http": "^2.3.0"
   }
 }
