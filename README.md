@@ -9,7 +9,7 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 An example of how to host an Express.js app on Netlify using
 [serverless-http](https://github.com/dougmoscrop/serverless-http). See
 [express/server.js](express/server.js) for details, or check it out at
-https://netlify-express.netlify.com/!
+https://netlify-express.netlify.app/!
 
 [index.html](index.html) simply loads html from the Express.js app using
 `<object>`, and the app is hosted at `/.netlify/functions/server`. Examples of
